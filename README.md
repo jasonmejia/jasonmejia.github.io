@@ -5,24 +5,14 @@ layout: page
 ---
 
 
-Introduction
-I was born in Brasil. I moved to USA years ago where I have been living since then. I am Spanish Science Instructor at High School. I have Bachelor of Science in Genetics from University California Davis After that I continued towards my Master in Science in Cell and Molecular Biology at San Francisco State University.
+I was born in Brasil. I moved to USA years ago where I have been living since then. I am Spanish Science Instructor at High School. I have Bachelor of Science in Genetics from University California Davis. After that, I continued towards my Master in Science in Cell and Molecular Biology at San Francisco State University.
 
-
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
 
 ## Features
 
  - supports dark mode on macOS Mojave
  - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+ 
 
 ## Based on
 
