@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-## Installation
+
 Introduction
 I was born in Brasil. I moved to USA years ago where I have been living since then. I am Spanish Science Instructor at High School. I have Bachelor of Science in Genetics from University California Davis After that I continued towards my Master in Science in Cell and Molecular Biology at San Francisco State University.
 
