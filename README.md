@@ -3,13 +3,10 @@ title: "About me"
 permalink: "/about/"
 layout: page
 ---
-
-
-<figcaption>Jason Mejia</figcaption> </figure>
-
 <p align="center">
-  <img width="230" height="150" src="https://user-images.githubusercontent.com/18094664/139358137-9969be68-7d38-4574-9ac4-345a330a08e4.png"><figcaption>Jason Mejia</figcaption> </figure>
+  <img width="230" height="150" src="https://user-images.githubusercontent.com/18094664/139358137-9969be68-7d38-4574-9ac4-345a330a08e4.png"> </figure>
 </p>
+
 I was born in Brasil. I moved to USA years ago where I have been living since then. I am Spanish Science Instructor at High School. I have Bachelor of Science in Genetics from University California Davis. After that, I continued towards my Master in Science in Cell and Molecular Biology at San Francisco State University.
 
 
