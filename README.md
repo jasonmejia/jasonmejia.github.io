@@ -13,6 +13,9 @@ I was born in Brasil. I moved to USA years ago where I have been living since th
 
 ![image](https://user-images.githubusercontent.com/18094664/139358137-9969be68-7d38-4574-9ac4-345a330a08e4.png)
 
+<figure>
+<img src="images-github/jason-github-small.jpg" width="200" />
+<figcaption>Figure1 Jason</figcaption> </figure>
 ## Features
 
  - supports dark mode on macOS Mojave
